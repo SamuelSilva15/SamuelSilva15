@@ -3,7 +3,7 @@
 - 🙋‍♂️ Samuel Aráujo da Silva, 20 anos
 - 🌱 Atualmente estudando Java
 - 📫 Onde me encontrar: Silvamsamuel15@gmail.com 
-- ⚽ 🎞 Apaixonado por futebol e filmes
+- ⚽ 🎞 Apaixonado por programação, futebol e filmes
 
 <div align="center">
   <a href="https://github.com/SamuelSilva15">
