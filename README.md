@@ -1,9 +1,9 @@
 ### Olá, bem vindo ao meu perfil 👋
 
-- 🙋‍♂️ Samuel Aráujo da Silva, 21 anos
-- 🌱 Atualmente estudando Java
-- 📫 Onde me encontrar: Silvamsamuel15@gmail.com 
-- ⚽ 🎞 Apaixonado por programação, futebol e filmes
+- 🙋‍♂️ Samuel Aráujo da Silva, 22 anos.
+- 🌱 Atualmente estudando Java e Angular.
+- 📫 Onde me encontrar: Silvamsamuel15@gmail.com.
+- ⚽ 🎞 Apaixonado por programação, futebol e filmes.
 
 <div align="center">
   <a href="https://github.com/SamuelSilva15">
